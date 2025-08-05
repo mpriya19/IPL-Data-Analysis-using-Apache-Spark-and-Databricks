@@ -14,7 +14,7 @@ The project uses the following datasets:
 This project follows a cloud-based architecture to analyze IPL cricket data using a scalable and modular data pipeline:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mpriya19/IPL-Data-Analysis-using-Apache-Spark-and-Databricks/main/assets/Architecture.png">
+  <img src="https://raw.githubusercontent.com/mpriya19/IPL-Data-Analysis-using-Apache-Spark-and-Databricks/main/assets/Architecture.jpeg">
 </p>
 
 - **Data Source:** The raw cricket data, including ball-by-ball events, match details, player stats, and team info, is collected as CSV files.
